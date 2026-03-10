@@ -128,17 +128,6 @@ The application:
 
 🔗 **Live Demo:** https://health-insurance-claim-prediction-1-5bf4.onrender.com
 
----
-
-## Project Structure
-
-```
-├── health_insurance_prediction.ipynb
-├── insurance_claim_pipeline.pkl
-├── app.py
-├── insurance.csv
-└── README.md
-```
 
 ## Limitations
 *   **Small Dataset:** Analysis is based on 1,332 usable records, which may limit the model's exposure to rare edge cases.
